@@ -1,7 +1,7 @@
 # Repositorio_Sistema_de_Gerenciamento_de_Atendimento
 
 ## Sobre o Projeto
-- O Sistema de Gerenciamento de Atendimento tem como principal objetivo oferecer soluções para negócios que enfrentam dificuldades na área de atendimento. Ele permite organizar e otimizar o processo, além de implementar recursos como o agendamento de serviços, mesmo quando a empresa não possui conhecimento prévio sobre como estruturar essa funcionalidade.
+- O Sistema de Gerenciamento de Atendimento tem como objetivo principal oferecer soluções para empresas que enfrentam desafios na área de atendimento. Desenvolvido com arquitetura de microsserviços, o projeto possibilita organizar e otimizar processos, além de disponibilizar recursos como o agendamento de serviços mesmo para negócios que ainda não possuem experiência ou estrutura prévia para implementar essa funcionalidade.
 
 ## Divisão do Sistema
 O sistema é composto por duas camadas principais: front-end e back-end. No front-end, existem duas interfaces:
